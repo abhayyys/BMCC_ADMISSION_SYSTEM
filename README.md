@@ -1,1 +1,1 @@
-# BMCC_ADMISSION_SYSTEM
+The BMCC Admission System is a comprehensive solution designed to streamline the admission process, provide easy registration for students, facilitate communication through a contact form, and offer detailed information about faculties, staff, and college events.
